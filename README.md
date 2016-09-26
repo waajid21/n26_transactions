@@ -17,3 +17,7 @@ need to know the total amount involved for all transactions linked to a particul
 
 In general we are looking for a good implementation, code quality and how the implementation is
 tested. Some discussion about asymptotic behaviour would also be appreciated.
+
+to run type:
+
+mvn package && java -jar target/n26_transactions-0.0.1-SNAPSHOT.jar
